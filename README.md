@@ -86,7 +86,12 @@ API-2
 
 This section will show how to use each of the routes
 
-### API 1
+### API's
+
+- [API 1](#API1)
+- [API 2](#API2)
+
+### API1
 
 #### Login
 
