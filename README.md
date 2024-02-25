@@ -4,6 +4,10 @@ This is a project created as a backend RESTful API with Node, Express, MongoDB f
 
 this project essentially consists of 2 basic api's . One for user related operations and other for job related operations
 
+## to run this locally
+
+clone the repo-> open in terminal -> npm install (to install dependencies) -> npm start
+
 ## Table of Contents
 
 - [Environment Variables](#Environment)
