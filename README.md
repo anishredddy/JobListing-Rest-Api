@@ -156,7 +156,7 @@ This section will show how to use each of the routes
   }
   ```
 
-### API 1
+### API2
 
 #### Get Jobs (Not Protected)
 
